@@ -8,3 +8,4 @@ SOURCES += main.cpp
 LIBS += -lGLU
 LIBS += -lGL
 LIBS += -lSDL2
+LIBS += -lSDL2_image
